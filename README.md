@@ -22,7 +22,5 @@ I'm a **Mathematics and Computer Science** student at **Jomo Kenyatta University
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-## 📈 GitHub Stats
-![George's GitHub Stats](https://github-readme-stats.vercel.app/api?username=george-maina&show_icons=true&theme=radical)
 
 🌱 Always learning, always building. Let's connect and collaborate! 🚀
