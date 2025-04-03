@@ -1,7 +1,7 @@
 # Hi there, I'm George Maina! 👋
 
 ## 🚀 About Me
-I'm a **Mathematics and Computer Science** student at **Jomo Kenyatta University of Agriculture and Technology (JKUAT)**. Passionate about web development, machine learning, and data science, I love solving real-world problems with code.
+I'm a **Mathematics and Computer Science** student at **Jomo Kenyatta University of Agriculture and Technology (JKUAT)**. Passionate about Software development, I love solving real-world problems with code.
 
 
 ## 🌐 Socials:
